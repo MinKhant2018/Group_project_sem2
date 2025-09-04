@@ -1,2 +1,2 @@
-# Group_project_sem2
-Creating a Educational Learning Website for University
+# Git Hub Tutorial Training
+YouTube Lesson Training
